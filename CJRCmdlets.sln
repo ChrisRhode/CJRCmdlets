@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CJRCmdlets", "CJRCmdlets\CJRCmdlets.vbproj", "{2432AC78-4C7A-4895-99DC-60CD57B199E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36965ABB-4381-4D3F-84C2-21CC7EB1D651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2432AC78-4C7A-4895-99DC-60CD57B199E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2432AC78-4C7A-4895-99DC-60CD57B199E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2432AC78-4C7A-4895-99DC-60CD57B199E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2432AC78-4C7A-4895-99DC-60CD57B199E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE658AD-C1DA-4360-83A1-0FF9BF564BD1}
+	EndGlobalSection
+EndGlobal
